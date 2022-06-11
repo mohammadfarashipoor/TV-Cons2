@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tv-con2/static/css/main.bdcdca40.css",
+    "main.js": "/tv-con2/static/js/main.ec492e58.js",
+    "static/media/icons.svg": "/tv-con2/static/media/icons.25fb6ea5892d50ffb486520a0c74f4d7.svg",
+    "static/media/IRANSansWeb.ttf": "/tv-con2/static/media/IRANSansWeb.30ee3c0863897d81f92c.ttf",
+    "index.html": "/tv-con2/index.html",
+    "main.bdcdca40.css.map": "/tv-con2/static/css/main.bdcdca40.css.map",
+    "main.ec492e58.js.map": "/tv-con2/static/js/main.ec492e58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdcdca40.css",
+    "static/js/main.ec492e58.js"
+  ]
+}
