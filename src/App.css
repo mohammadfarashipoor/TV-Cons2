@@ -1,0 +1,82 @@
+@font-face {
+    font-family: 'IRANSansWeb';
+    src: local('IRANSansWeb'), url(./fonts/IRANSansWeb.ttf) format('truetype');
+  }
+*{
+    direction: rtl;
+    font-family:IRANSansWeb;
+}
+.pagination{
+    direction: ltr !important;
+}
+.bg-gray{
+    background-color: #EFEEEE;
+}
+.mytable> thead> tr> th{
+    text-align: center;
+}
+.mytable> tbody> tr{
+    text-align: center;
+}
+.loading{
+    position: absolute;
+left: 50%;
+top: 50%;
+}
+#active > button{
+    background-color: #000f47;
+    color: #fff;
+}
+.Radiogroup > div{
+    margin-right: 10px;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.listshow{
+    height: auto;
+overflow-y: auto;
+direction: ltr;
+position: absolute;
+z-index: 5;
+
+}
+.listshow >div >div >div{
+    margin-bottom: 1px;
+}
+.input-group-inset-item{
+    border-left-width:1px !important;
+    border-bottom-left-radius: 0.25rem;
+    border-top-left-radius: 0.25rem;
+}
+.input-group-inset{
+    border-left-width: 1px !important;
+    border-bottom-right-radius: 0.25rem !important;
+    border-top-right-radius: 0.25rem !important;
+    padding-right: 8px !important;
+    border-right-width: 1px !important;
+}
+.clay-time-edit{
+    direction: ltr;
+}
+.table-header > th{
+    text-align: center;
+}
+.table-row > tr{
+    text-align: center;
+}
+.toolbar{
+    padding-right: 22px;
+}
+.navbar-nav{
+    padding:0 ;
+}
+.tbar-nav > div:nth-child(1){
+    margin:0 !important;
+}
+.custom-control {
+    text-align: center !important;
+}
+.custom-control-picture{
+    cursor: pointer;
+    font-size: 8rem;}

@@ -1,0 +1,182 @@
+.portlet-club-level-admin-web-wrapper {
+  color: inherit;
+}
+.portlet-club-level-admin-web-wrapper .custom-tooltip-btn {
+  background: none !important;
+  border: none !important;
+  color: #6b6c7e;
+  height: 100%;
+  margin: 0 !important;
+  outline: none !important;
+  padding: 0 !important;
+  position: relative;
+  width: 100%;
+  z-index: 0;
+}
+.portlet-club-level-admin-web-wrapper .custom-tooltip-btn::before {
+  content: "";
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+.portlet-club-level-admin-web-wrapper .management-bar.management-bar-light,
+.portlet-club-level-admin-web-wrapper .management-bar .navbar-form {
+  background: transparent !important;
+}
+.portlet-club-level-admin-web-wrapper .management-bar .container-fluid-max-xl {
+  max-width: unset !important;
+}
+.portlet-club-level-admin-web-wrapper .management-bar form {
+  margin-bottom: 0;
+}
+.portlet-club-level-admin-web-wrapper .management-bar .nav-item .custom-control.custom-checkbox {
+  z-index: 5;
+}
+.portlet-club-level-admin-web-wrapper .table .action-btn {
+  width: auto;
+}
+.portlet-club-level-admin-web-wrapper .card-page .card-page-item:nth-child(9n+1) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .card-page .list-group-item:nth-child(9n+1) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .list-group .card-page-item:nth-child(9n+1) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .list-group .list-group-item:nth-child(9n+1) .placeholder-icon {
+  color: #af78ff !important;
+}
+.portlet-club-level-admin-web-wrapper .card-page .card-page-item:nth-child(9n+2) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .card-page .list-group-item:nth-child(9n+2) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .list-group .card-page-item:nth-child(9n+2) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .list-group .list-group-item:nth-child(9n+2) .placeholder-icon {
+  color: #6b6c7e !important;
+}
+.portlet-club-level-admin-web-wrapper .card-page .card-page-item:nth-child(9n+3) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .card-page .list-group-item:nth-child(9n+3) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .list-group .card-page-item:nth-child(9n+3) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .list-group .list-group-item:nth-child(9n+3) .placeholder-icon {
+  color: #4b9bff !important;
+}
+.portlet-club-level-admin-web-wrapper .card-page .card-page-item:nth-child(9n+4) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .card-page .list-group-item:nth-child(9n+4) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .list-group .card-page-item:nth-child(9n+4) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .list-group .list-group-item:nth-child(9n+4) .placeholder-icon {
+  color: #ffd76e !important;
+}
+.portlet-club-level-admin-web-wrapper .card-page .card-page-item:nth-child(9n+5) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .card-page .list-group-item:nth-child(9n+5) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .list-group .card-page-item:nth-child(9n+5) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .list-group .list-group-item:nth-child(9n+5) .placeholder-icon {
+  color: #5fc8ff !important;
+}
+.portlet-club-level-admin-web-wrapper .card-page .card-page-item:nth-child(9n+6) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .card-page .list-group-item:nth-child(9n+6) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .list-group .card-page-item:nth-child(9n+6) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .list-group .list-group-item:nth-child(9n+6) .placeholder-icon {
+  color: #ff5f5f !important;
+}
+.portlet-club-level-admin-web-wrapper .card-page .card-page-item:nth-child(9n+7) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .card-page .list-group-item:nth-child(9n+7) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .list-group .card-page-item:nth-child(9n+7) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .list-group .list-group-item:nth-child(9n+7) .placeholder-icon {
+  color: #50d2a0 !important;
+}
+.portlet-club-level-admin-web-wrapper .card-page .card-page-item:nth-child(9n+8) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .card-page .list-group-item:nth-child(9n+8) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .list-group .card-page-item:nth-child(9n+8) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .list-group .list-group-item:nth-child(9n+8) .placeholder-icon {
+  color: #de834d !important;
+}
+.portlet-club-level-admin-web-wrapper .card-page .card-page-item:nth-child(9n) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .card-page .list-group-item:nth-child(9n) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .list-group .card-page-item:nth-child(9n) .placeholder-icon,
+.portlet-club-level-admin-web-wrapper .list-group .list-group-item:nth-child(9n) .placeholder-icon {
+  color: #ff73c3 !important;
+}
+.portlet-club-level-admin-web-wrapper .list-group .sticker .sticker-img {
+  position: unset;
+  transform: unset;
+}
+.portlet-club-level-admin-web-wrapper .campaign-form select {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.portlet-club-level-admin-web-wrapper .campaign-form .custom-inline-alert {
+  color: #2e5aac;
+  font-size: 14px;
+  margin-bottom: 0.3em;
+}
+.portlet-club-level-admin-web-wrapper .campaign-form .custom-inline-alert svg {
+  margin: 0 0.35em;
+}
+.portlet-club-level-admin-web-wrapper .campaign-form .clay-time .input-group .input-group-item {
+  width: 100%;
+}
+.portlet-club-level-admin-web-wrapper .campaign-form .clay-time .input-group .input-group-item .clay-time-edit {
+  direction: ltr;
+}
+.portlet-club-level-admin-web-wrapper .campaign-form .clay-time .input-group .input-group-item .clay-time-edit .clay-time-divider {
+  margin: auto;
+}
+.portlet-club-level-admin-web-wrapper .card-page .custom-checkbox {
+  z-index: 3;
+}
+.portlet-club-level-admin-web-wrapper .card-page .card-page-item .parent-img {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  z-index: 0;
+}
+.portlet-club-level-admin-web-wrapper .card-page .card-page-item .parent-img .placeholder-icon {
+  font-size: 70px;
+}
+.portlet-club-level-admin-web-wrapper .card-page .card-page-item .parent-img .bg-img {
+  filter: blur(5px);
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  transform: scale(1.1);
+  transition: all ease-in-out 0.3s;
+  width: 100%;
+  z-index: 1;
+}
+.portlet-club-level-admin-web-wrapper .card-page .card-page-item .parent-img .main-img {
+  max-height: 100%;
+  max-width: 100%;
+  z-index: 2;
+}
+.portlet-club-level-admin-web-wrapper .subnav-tbar {
+  border-radius: 0.25rem;
+}
+.portlet-club-level-admin-web-wrapper .main-row {
+  position: relative;
+}
+.portlet-club-level-admin-web-wrapper .main-row .selected-items-col {
+  width: 100%;
+}
+@media only screen and (min-width: 767px) {
+  .portlet-club-level-admin-web-wrapper .main-row .selected-items-col {
+    position: absolute;
+    top: 0.5em;
+    z-index: 4;
+  }
+  .portlet-club-level-admin-web-wrapper .main-row .selected-items-col .text-truncate-inline {
+    margin: 0 1.5em;
+  }
+}
+
+body {
+  background: #fff;
+}
+body .portlet-decorate .portlet-content {
+  background: #fff;
+}
+body.dev-mode .container-fluid.app {
+  margin: auto;
+  max-width: 1248px;
+  padding-right: 0 !important;
+}
+
+/*# sourceMappingURL=main.css.map */
